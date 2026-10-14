@@ -128,7 +128,7 @@ Animated 3D web experiences in React + Three.js, extended into shipped desktop a
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=Methyldioxymethamphetamine&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=dushyant-nanwatkar&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
 
 </div>
 
