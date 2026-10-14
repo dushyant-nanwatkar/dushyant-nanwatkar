@@ -14,9 +14,9 @@
 <!-- ─── SOCIALS ─── -->
 <a href="mailto:dushyant7563@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="email" /></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="linkedin" /></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="portfolio" /></a>
-<a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-0f2027?style=for-the-badge&logo=x&logoColor=ffffff" alt="x" /></a>
-<a href="https://github.com/Methyldioxymethamphetamine?tab=followers"><img src="https://img.shields.io/github/followers/Methyldioxymethamphetamine?style=for-the-badge&color=0f2027&labelColor=0f2027&logo=github&logoColor=ffffff&label=Followers" alt="followers" /></a>
+<!--<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="portfolio" /></a> --> 
+<!-- <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-0f2027?style=for-the-badge&logo=x&logoColor=ffffff" alt="x" /></a> --> 
+<a href="https://github.com/dushyant-nanwatkar?tab=followers"><img src="https://img.shields.io/github/followers/dushyant-nanwatkar?style=for-the-badge&color=0f2027&labelColor=0f2027&logo=github&logoColor=ffffff&label=Followers" alt="followers" /></a>
 
 </div>
 
